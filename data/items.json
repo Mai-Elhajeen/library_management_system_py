@@ -1,0 +1,56 @@
+[
+    {
+        "item_id": 1,
+        "title": "Clean Code",
+        "is_available": true,
+        "reserved_by": null,
+        "author": "Robert C. Martin",
+        "genre": "Programming",
+        "type": "Book"
+    },
+    {
+        "item_id": 2,
+        "title": "UX-UI Design",
+        "is_available": true,
+        "reserved_by": 1,
+        "author": "Don Norman",
+        "genre": "Design",
+        "type": "Book"
+    },
+    {
+        "item_id": 3,
+        "title": "Michael Jackson",
+        "is_available": true,
+        "reserved_by": null,
+        "director": "John Landis",
+        "duration": 104,
+        "type": "DVD"
+    },
+    {
+        "item_id": 4,
+        "title": "NewYork Times",
+        "is_available": true,
+        "reserved_by": null,
+        "publisher": "The New York Times Company",
+        "issue": "March 2025",
+        "type": "Magazine"
+    },
+    {
+        "item_id": 5,
+        "title": "Coffee-Break Podcast",
+        "is_available": false,
+        "reserved_by": null,
+        "director": null,
+        "duration": 30,
+        "type": "DVD"
+    },
+    {
+        "item_id": 6,
+        "title": "Sun News Magazine",
+        "is_available": true,
+        "reserved_by": null,
+        "publisher": null,
+        "issue": "February 2025",
+        "type": "Magazine"
+    }
+]
